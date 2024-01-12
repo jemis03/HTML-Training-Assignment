@@ -1,2 +1,1 @@
-# HTML-Training-Assignment
-HTML-Training-Assignment
+This is my HTML CSS JS and Bootstrap tutorial
